@@ -2,3 +2,4 @@
 Shiny app for prediction of the right-censored time-series nonparametrically. 
 Here, right-censored time series are estimated by penalized spline method for different sample sizes and censoring level with using augmentation and imputation method which is proposed by Park et al. (2007). 
 Note that nonparametric methods are used for the first time.
+shiny app is developed and it is available in https://ey13.shinyapps.io/modelling_cts/
